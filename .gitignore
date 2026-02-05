@@ -1,0 +1,10 @@
+.import/
+.export/
+.mono/
+.vscode/
+build/
+dist/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
