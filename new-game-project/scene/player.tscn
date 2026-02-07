@@ -347,7 +347,7 @@ script = SubResource("GDScript_0qntm")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_40x28")
 animation = &"run"
-frame_progress = 0.510289
+frame_progress = 0.19806
 script = SubResource("GDScript_nrnes")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
